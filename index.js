@@ -240,11 +240,6 @@ const questions = [
     },
     {
         type: 'input',
-        name: 'license',
-        message: 'Here\'s a list of license options:\n\t1. Option 2\n\t3. Option 3\nWhich license is the application covered under? '
-    },
-    {
-        type: 'input',
         name: 'username',
         message: 'Enter your Github username: '
     },
